@@ -1,5 +1,6 @@
 {
     "Get started": {
-        "Welcome": "index.md"
+        "Welcome": "index.md",
+        "Frequently-asked questions": "faqs.md"
     }
 }
