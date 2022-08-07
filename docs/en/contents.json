@@ -2,5 +2,8 @@
     "Get started": {
         "Welcome": "index.md",
         "Frequently-asked questions": "faqs.md"
+    },
+    "Set up your device": {
+        "Set up a device running LiveG OS": "setup.md"
     }
 }
