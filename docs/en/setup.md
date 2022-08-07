@@ -4,10 +4,10 @@ When you first get a device running LiveG OS, you will need to set it up. This c
 LiveG OS will guide you through choosing system settings, setting up a user account and more through this setup procedure. Once you have set up your device, you can then start using it right away.
 
 ## Setup procedure
-The following steps below are what are shown through LiveG OS's setup procedure, in order.
+The following steps below are what are shown through LiveG OS's setup procedure, in order.r
 
 ### 1. Select your language
-LiveG OS will show a list of languages that will be used throughout thr system. From this list, select **English**.
+LiveG OS will show a list of languages that will be used throughout the system. From this list, select **English**.
 
 ### 2. Choose language settings
 Once you have chosen your language, you will be further asked what language region/variation you wish to read text in, in addition to the keyboard layout you wish to use to input text.
