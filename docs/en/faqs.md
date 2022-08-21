@@ -19,6 +19,6 @@ LiveG OS is an operating system — similar to Microsoft Windows and Apple macOS
 
 <details>
 <summary>What hardware is compatible with LiveG OS?</summary>
-<p>LiveG OS is built to run on a range of computers and other devices that come from many different manufacturers. You can find out whether your device is compatible by LiveG OS by using the LiveG OS Installation Media or by consulting your manfacturer. Any computer that can run the Microsoft Windows operating system is likely to be able to run LiveG OS.</p>
+<p>LiveG OS is built to run on a range of computers and other devices that come from many different manufacturers. You can find out whether your device is compatible with LiveG OS by using the LiveG OS Installation Media or by consulting your manfacturer. Any computer that can run the Microsoft Windows operating system is likely to be able to run LiveG OS.</p>
 <p>LiveG OS is compatible with almost all of the peripherals that you may already have that have been manfactured in the last 10 years. Peripherals and hardware such as computer keyboards, mice, USB mass storage drives, SD cards and printers are likely to work well with LiveG OS without even having to install a dedicated driver program.</p>
 </details>
