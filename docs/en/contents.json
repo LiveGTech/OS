@@ -4,6 +4,7 @@
         "Frequently-asked questions": "faqs.md"
     },
     "Set up your device": {
+        "Install LiveG OS to a device": "install.md",
         "Set up a device running LiveG OS": "setup.md"
     }
 }
