@@ -56,3 +56,27 @@ If you wish to try out LiveG OS before installing it, you can choose the **try o
 Choose the disk you wish to install LiveG OS to from the list of options, and then press **next**.
 
 The total size of each disk is displayed under each option so that it is easier for you to match the correct disk (the disk size may also be labelled on the box your device came with).
+
+### 9. Choose a disk partition to install to
+We recommend choosing the **erase entire disk and install LiveG OS** option as this will remove any partitions that were used only for the old operating system that was previously installed on the device.
+
+Advanced users may wish to choose another option to allow dual-booting.
+
+Once an option has been chosen, press **next**.
+
+### 10. Confirm installation
+When you are ready to start the installation process, press **confirm**. If you wish to review the options you have chosen, press **previous**.
+
+> **Warning:** While LiveG OS is being installed, data on the respective disk chosen previously will be erased. Ensure that you backup any important data you wish to keep to another device before beginning installation.
+
+### 11. Wait for installation to complete
+This step should take a few minutes to copy LiveG OS to internal storage and configure your device to correctly boot into LiveG OS when you turn it on.
+
+You cannot cancel the installation while it is running.
+
+### 12. Restart the system
+Once installation is complete, the system will restart after 10 seconds so that you can continue setting up your device. You can alternatively press **restart** to immediately restart the system.
+
+When the system restarts, we recommend configuring the boot options at startup again to ensure that LiveG OS boots from internal storage. Once restarted, the installation storage device can be removed.
+
+When the system has finished booting, continue setting up your device by following the [setup instructions](setup.md).
