@@ -43,7 +43,7 @@ LiveG OS affichera une liste de langues qui seront utilisées dans tout le syst�
 ### 6. Choisissez les paramètres de la langue
 Une fois que vous avez choisi votre langue, vous serez en outre demandé dans quelle langue / variation de langue vous souhaitez lire du texte, en plus de la mise en page du clavier que vous souhaitez utiliser pour saisir du texte.
 
-Par exemple, si vous parlez l'anglais britannique, vous sélectionnez **français (France)** pour **région / variation de langue** et **AZERTY** pour **disposition du clavier**.
+Par exemple, si vous parlez le français, vous sélectionnez **français (France)** pour **région / variation de langue** et **AZERTY** pour **disposition du clavier**.
 
 Une fois que vous êtes satisfait des paramètres choisis, appuyez sur **suivant**.
 
