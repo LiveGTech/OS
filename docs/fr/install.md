@@ -8,7 +8,7 @@ Vous aurez besoin d'un périphérique de stockage à portée de main pour instal
 
 Une fois que vous avez trouvé un périphérique de stockage, vous devrez ensuite le formater et copier la configuration LiveG OS dessus. Cela peut être fait en visitant [liveg.tech/os/get](https://liveg.tech/os/get) et en téléchargeant LiveG OS. D'autres étapes sur la façon de copier LiveG OS sur votre périphérique de stockage sont [indiquées dans notre guide](create-media.md).
 
-> ** Avertissement : ** Lorsque la configuration LiveG OS est copiée, toutes les données sur le périphérique de stockage doivent être effacées au préalable. Assurez-vous que vous sauvegardez le périphérique de stockage ailleurs avant de le copier LiveG OS.
+> **Avertissement :** Lorsque la configuration LiveG OS est copiée, toutes les données sur le périphérique de stockage doivent être effacées au préalable. Assurez-vous que vous sauvegardez le périphérique de stockage ailleurs avant de le copier LiveG OS.
 
 ## Procédure de configuration
 Les étapes suivantes ci-dessous devront être suivies pour installer LiveG OS.

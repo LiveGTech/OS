@@ -14,7 +14,7 @@ balenaEtcher est compatible avec les périphériques exécutant Windows, MacOS o
 
 Téléchargez balenaEtcher à partir de [balena.io/etcher](https://www.balena.io/etcher/) et installez-le sur un ordinateur (il peut s'agir de l'ordinateur sur lequel vous souhaitez installer LiveG OS).
 
-Ouvrez balenaEtcher et appuyez sur **flash from file**. Sélectionnez le fichier ISO pour LiveG OS dans le sélecteur de fichiers. Une fois le fichier choisi, sélectionnez le périphérique de stockage pour copier le fichier ISO en appuyant sur ** Modifier change** s'il n'est pas déjà sélectionné. Enfin, appuyez sur **flash!** et attendez que la copie se termine. Une fois terminé, éjectez le périphérique de stockage, à partir duquel il sera prêt à l'emploi.
+Ouvrez balenaEtcher et appuyez sur **flash from file**. Sélectionnez le fichier ISO pour LiveG OS dans le sélecteur de fichiers. Une fois le fichier choisi, sélectionnez le périphérique de stockage pour copier le fichier ISO en appuyant sur **change** s'il n'est pas déjà sélectionné. Enfin, appuyez sur **flash!** et attendez que la copie se termine. Une fois terminé, éjectez le périphérique de stockage, à partir duquel il sera prêt à l'emploi.
 
 Pour plus d'aide et de support avec l'utilisation de balenaEtcher, visitez [balena.io/etcher](https://www.balena.io/etcher/).
 
