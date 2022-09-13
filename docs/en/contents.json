@@ -5,6 +5,7 @@
     },
     "Set up your device": {
         "Install LiveG OS to a device": "install.md",
+        "Create LiveG OS installation media": "createmedia.md",
         "Set up a device running LiveG OS": "setup.md"
     }
 }

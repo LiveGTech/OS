@@ -6,7 +6,7 @@ If a device you have does not run LiveG OS yet, you'll need to install LiveG OS 
 ## Before we start
 You will need a storage device handy to install LiveG OS with (such as a USB memory stick). Make sure that the storage device is compatible with the device you want to install LiveG OS on.
 
-Once you have found a storage device, you will need to then format it and copy LiveG OS Setup onto it. This can be done by visiting [liveg.tech/os](https://liveg.tech/os) and downloading LiveG OS. Further steps on how to copy LiveG OS to your storage device are listed on that page.
+Once you have found a storage device, you will need to then format it and copy LiveG OS Setup onto it. This can be done by visiting [liveg.tech/os/get](https://liveg.tech/os/get) and downloading LiveG OS. Further steps on how to copy LiveG OS to your storage device are [shown in our guide](createmedia.md).
 
 > **Warning:** Copying LiveG OS Setup requires all data on the storage device to be erased beforehand. Ensure that you backup the storage device to somewhere else before you copy LiveG OS to it.
 
