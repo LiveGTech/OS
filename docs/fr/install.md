@@ -1,7 +1,7 @@
 # Installez LiveG OS sur un appareil
 Si un appareil que vous avez n'exécute pas encore LiveG OS, vous devrez installer LiveG OS sur le stockage interne de cet appareil. Ces étapes doivent être suivies si votre appareil n'a aucun système d'exploitation installé (où vous obtenez un message d'erreur lorsque vous essayez de l'allumer), ou a un système d'exploitation différent (comme Microsoft Windows).
 
-> ** Remarque: ** Si vous avez acheté un nouvel appareil livré avec LiveG OS, vous n'avez pas besoin de suivre ces étapes. Consultez [notre guide sur la configuration d'un appareil exécutant LiveG OS](setup.md) à la place.
+> **Remarque:** Si vous avez acheté un nouvel appareil livré avec LiveG OS, vous n'avez pas besoin de suivre ces étapes. Consultez [notre guide sur la configuration d'un appareil exécutant LiveG OS](setup.md) à la place.
 
 ## Avant de commencer
 Vous aurez besoin d'un périphérique de stockage à portée de main pour installer LiveG OS avec (comme un bâton de mémoire USB). Assurez-vous que le périphérique de stockage est compatible avec l'appareil sur lequel vous souhaitez installer un LiveG OS.
