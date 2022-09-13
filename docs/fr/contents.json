@@ -1,0 +1,11 @@
+{
+    "Commencer": {
+        "Bienvenue": "index.md",
+        "Questions fréquemment posées": "faqs.md"
+    },
+    "Configurez votre appareil": {
+        "Installer LiveG OS sur un appareil": "install.md",
+        "Créer des médias d'installation LiveG OS": "create-media.md",
+        "Configurer un appareil exécutant LiveG OS": "setup.md"
+    }
+}

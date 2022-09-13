@@ -32,6 +32,6 @@ UNetbootin is compatible with devices running Windows, macOS or Linux.
 
 Download UNetbootin from [unetbootin.org](https://unetbootin.org/) and install it to a computer (this can be the computer you wish to install LiveG OS onto).
 
-Open UNetbootin and select **diskimage**. Press **...** and select the LiveG OS file from the file picker. Select the storage device from the **drive** list. Press **OK** and wait for copying to complete. Once complete, eject the storage device, from which it will be ready for use.
+Open UNetbootin and select **diskimage**. Press **...** and select the LiveG OS ISO file from the file picker. Select the storage device from the **drive** list. Press **OK** and wait for copying to complete. Once complete, eject the storage device, from which it will be ready for use.
 
 For more help and support with using UNetbootin, visit [unetbootin.org](https://unetbootin.org/).

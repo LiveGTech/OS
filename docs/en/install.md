@@ -28,11 +28,11 @@ This procedure varies depending on the device and who manufactured it, so refer 
 
 For the device models made by the following manufacturers, you will need to do the following when the manufacturer's logo appears on the device's screen:
 
-* **Acer**: Hold the <kbd>F2</kbd> key (or <kbd>Del</kbd> on some models). For most models, use the arrow keys to navigate to **Boot**, then select the relevant storage device.
+* **Acer**: Hold the <kbd>F2</kbd> key (or <kbd>Del</kbd> on some models). For most models, use the arrow keys to navigate to **boot**, then select the relevant storage device.
 * **Asus**: Hold the <kbd>F2</kbd> key. When the BIOS interface appears, press <kbd>F8</kbd>, then select the relevant storage device.
-* **Dell**: Hold the <kbd>F2</kbd> key. For most models, use the arrow keys to navigate to **Boot**, then select the relevant storage device.
+* **Dell**: Hold the <kbd>F2</kbd> key. For most models, use the arrow keys to navigate to **boot**, then select the relevant storage device.
 * **HP**: Hold the <kbd>F9</kbd> key, then select the relevant storage device using the keyboard. For some models, you may need to access the BIOS menu via the <kbd>F10</kbd> or <kbd>F1</kbd> buttons.
-* **Lenovo/ThinkPad**: Hold the <kbd>FN</kbd> + <kbd>F12</kbd> keys. For most models, use the arrow keys to navigate to **Startup**, then select the relevant storage device. For some models, <kbd>FN</kbd> + <kbd>F2</kbd> must be used instead.
+* **Lenovo/ThinkPad**: Hold the <kbd>FN</kbd> + <kbd>F12</kbd> keys. For most models, use the arrow keys to navigate to **startup**, then select the relevant storage device. For some models, <kbd>FN</kbd> + <kbd>F2</kbd> must be used instead.
 
 ### 4. Wait for LiveG OS to boot
 This should take less than a minute. Your device will have booted when the LiveG OS Setup language selection screen appears.
