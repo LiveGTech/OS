@@ -1,4 +1,4 @@
-# Frequently-asked questions
+# Questions fréquemment posées
 Jetez un œil à nos questions fréquemment posées ci-dessous sur LiveG OS.
 
 <details>
