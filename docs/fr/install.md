@@ -31,7 +31,7 @@ Pour les modèles d'appareil fabriqués par les fabricants suivants, vous devrez
 * **Acer** : Tenez la touche <kbd>F2</kbd> (ou <kbd>Del</kbd> sur certains modèles). Pour la plupart des modèles, utilisez les touches fléchées pour accéder à **boot**, puis sélectionnez le périphérique de stockage pertinent.
 * **Asus** : Tenez la clé <kbd>F2</kbd>. Lorsque l'interface du BIOS apparaît, appuyez sur <kbd>F8</kbd>, puis sélectionnez le périphérique de stockage pertinent.
 * **Dell** : Tenez la touche <kbd>F2</kbd>. Pour la plupart des modèles, utilisez les touches fléchées pour accéder à **boot**, puis sélectionnez le périphérique de stockage pertinent.
-* **HP** : Maintenez la touche <kbd>F9</kbd>, puis sélectionnez le périphérique de stockage pertinent à l'aide du clavier. Pour certains modèles, vous devrez peut-être accéder au menu du BIOS via les boutons <kbd>F10</kbd> ou <kbd>F1</kbd>.
+* **HP** : Tenez la touche <kbd>F9</kbd>, puis sélectionnez le périphérique de stockage pertinent à l'aide du clavier. Pour certains modèles, vous devrez peut-être accéder au menu du BIOS via les boutons <kbd>F10</kbd> ou <kbd>F1</kbd>.
 * **Lenovo / ThinkPad** : Tenez les touches <kbd>FN</kbd> + <kbd>F12</kbd>. Pour la plupart des modèles, utilisez les touches fléchées pour accéder à **startup**, puis sélectionnez le périphérique de stockage pertinent. Pour certains modèles, <kbd>FN</kbd> + <kbd>F2</kbd> doit être utilisé à la place.
 
 ### 4. Attendez que LiveG OS commence
