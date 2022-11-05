@@ -7,7 +7,7 @@ LiveG OS vous guidera dans le choix des paramètres du système, la configuratio
 Les étapes suivantes ci-dessous sont ce qui est indiqué par le biais de la procédure de configuration de LiveG OS, dans l'ordre.
 
 ### 1. Sélectionnez votre langue
-LiveG OS affichera une liste de langues qui seront utilisées dans tout le système. Dans cette liste, sélectionnez **Français**.
+LiveG OS affichera une liste de langues qui seront utilisées dans tout le système. Dans cette liste, sélectionnez **français**.
 
 ### 2. Choisissez les paramètres de la langue
 Une fois que vous avez choisi votre langue, vous serez en outre demandé dans quelle langue / variation de langue vous souhaitez lire du texte, en plus de la mise en page du clavier que vous souhaitez utiliser pour saisir du texte.
