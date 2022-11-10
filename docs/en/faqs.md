@@ -3,8 +3,7 @@ Take a look at our frequently-asked questions below about LiveG OS.
 
 <details>
 <summary>What is LiveG OS?</summary>
-
-LiveG OS is an operating system — similar to Microsoft Windows and Apple macOS — made by LiveG Technologies. LiveG OS can run on a range of devices, including desktop computers, laptops, smartphones, tablets and more.
+<p>LiveG OS is an operating system — similar to Microsoft Windows and Apple macOS — made by LiveG Technologies. LiveG OS can run on a range of devices, including desktop computers, laptops, smartphones, tablets and more.</p>
 </details>
 
 <details>
