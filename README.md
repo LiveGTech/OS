@@ -3,7 +3,7 @@ Information and resources for LiveG OS.
 
 Licensed by the [LiveG Open-Source Licence](LICENCE.md).
 
-## Repositoies for LiveG OS
+## Repositories for LiveG OS
 There are various repositories that contain parts of LiveG OS, or the tools needed to make it. Here's a list of them:
 
 * **This repository**: Contains help documentation about LiveG OS (viewable on [LiveG Docs site](https://docs.liveg.tech/?product=os&page=index.md)) and release files
