@@ -7,5 +7,8 @@
         "Install LiveG OS to a device": "install.md",
         "Create LiveG OS installation media": "create-media.md",
         "Set up a device running LiveG OS": "setup.md"
+    },
+    "Interaction and privacy": {
+        "Privacy information": "privacy.md"
     }
 }
