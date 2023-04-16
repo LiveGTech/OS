@@ -23,7 +23,16 @@ Votre nom sera affiché lors de la connexion de votre appareil. La saisie de vot
 
 Une fois que vous avez entré votre nom, appuyez sur **suivant**.
 
-### 4. Terminez le processus de configuration
+### 4. Choisir les options d'interaction en ligne
+Après avoir saisi vos informations personnelles, il vous sera demandé comment vous souhaitez que votre appareil interagisse avec LiveG.
+
+Ces options peuvent affecter votre vie privée, il est donc recommandé de lire [les informations de confidentialité sur LiveG OS](privacy.md) avant de faire vos choix. Les deux options sont entièrement volontaires et peuvent être modifiées ultérieurement à tout moment dans l'application **Paramètres**.
+
+L'activation de ces options peut aider à améliorer LiveG OS et à améliorer LiveG OS à long terme, mais si vous êtes préoccupé par les implications de l'activation de ces options sur la confidentialité, vous pouvez les désactiver.
+
+Une fois que vous avez fait vos choix, appuyez sur **suivant**.
+
+### 5. Terminez le processus de configuration
 C'est la dernière étape, vous disant que la configuration est terminée. À ce stade, vous pouvez revenir en arrière et revoir les choix de configuration que vous avez faits pour voir s'ils sont corrects, et les modifier si nécessaire. Une fois que vous êtes heureux, appuyez sur **finir** et vous pourrez utiliser votre appareil.
 
 Les choix que vous avez effectués lors de la configuration peuvent toujours être modifiés plus tard dans l'application Paramètres.

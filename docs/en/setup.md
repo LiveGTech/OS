@@ -23,7 +23,16 @@ Your name will be displayed when signing into your device. Entering your full na
 
 Once you have entered your name, press **next**.
 
-### 4. Complete the setup process
+### 4. Choose online interaction options
+After entering your personal details, you will be asked how you wish your device to interact with LiveG.
+
+These options can affect your privacy, so it is recommended that you read the [privacy information on LiveG OS](privacy.md) before making your choices. Both options are entirely voluntary and can be changed at any time later on in the **Settings** app.
+
+Enabling these options can help to enhance LiveG OS and make LiveG OS better in the long run, but if you are concerned about the privacy implications of enabling these options, then you may turn them off.
+
+Once you have made your choices, press **next**.
+
+### 5. Complete the setup process
 This is the last step, telling you that setup is complete. At this stage, you may go back and review the setup choices you've made to see if they are correct, and change them if needed. Once you're happy, press **finish** and you'll be able to use your device.
 
 The choices you have made during setup can always be changed later on in the Settings app.
