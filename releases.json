@@ -50,7 +50,7 @@
             "description": {
                 "en_GB": "This edition is designed to run on x86-64 computers with Intel or AMD CPU chipsets, as well as in virtual machines.",
                 "fr_FR": "Cette édition est conçue pour fonctionner sur des ordinateurs x86-64 avec des chipsets CPU Intel ou AMD, ainsi que sur des machines virtuelles.",
-                "zh_CN": "此版本设计用于在具有 Intel 或 AMD CPU 芯片组的 x86-64 计算机以及虚拟机中运行。"
+                "zh_CN": "此版本设计用于在具有Intel或AMD CPU芯片组的x86-64计算机以及虚拟机中运行。"
             },
             "fallbackLocale": "en_GB"
         }
