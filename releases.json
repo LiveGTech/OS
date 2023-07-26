@@ -1,0 +1,58 @@
+{
+    "releases": [
+        {
+            "version": "0.1.0",
+            "vernum": 0,
+            "circuit": "alpha",
+            "releasedAt": 1660423927000,
+            "title": {
+                "en_GB": "LiveG OS Alpha",
+                "fr_FR": "LiveG OS Alpha",
+                "zh_CN": "力格OS Alpha"
+            },
+            "description": {
+                "en_GB": "Try out our new operating system designed for modern computing. This is our very first pre-release of LiveG OS, and so some features may still be in-development or missing.",
+                "fr_FR": "Essayez notre nouveau système d'exploitation conçu pour l'informatique moderne. Il s'agit de notre tout premier pré-release de LiveG OS, donc certaines fonctionnalités pourraient encore être en développement ou manquantes.",
+                "zh_CN": "尝试我们为现代计算设计的新操作系统。这是我们的第一个力格OS释放，因此某些功能可能仍然是内部开发或缺失的。"
+            },
+            "notes": {
+                "en_GB": "There is no update mechanism for LiveG OS yet, so when future releases are available, you will need to install the new version of LiveG OS via the LiveG OS Setup/Installation Media (ISO file), which means overwriting your old installation (though this may not be too important at this stage).",
+                "fr_FR": "Il n'y a pas encore de mécanisme de mise à jour pour LiveG OS, donc lorsque les versions futures sont disponibles, vous devrez installer la nouvelle version de LiveG OS via La Configuration/L'Installation de LiveG OS (fichier ISO), ce qui signifie écraser votre ancienne installation (bien que cela peut ne pas être trop important à ce stade).",
+                "zh_CN": "尚无针对力格OS的更新机制。当未来的版本可用时，您需要通过《力格OS设置/安装媒体》（ISO文件）安装新版本的力格OS，这意味着要擦除旧的安装（但是，这在现阶段可能不太重要）。"
+            },
+            "systemRequirements": {
+                "en_GB": "LiveG OS can be installed to devices with a minimum disk storage size of 2.6 GB, and with a minimum RAM size of 2 GB.\n\nA storage device is required to boot LiveG OS for installation. The storage device must have a minimum storage size of 2 GB.\n\nLiveG OS currently supports only desktop and laptop computers running an x86-64 (AMD64) CPU architecture (most 64-bit systems will support this). We hope to expand the architecture support soon, along with mobile support.",
+                "fr_FR": "LiveG OS peut être installé sur des appareils avec une taille de stockage de disque minimale de 2,6 Go, et avec une taille de RAM minimale de 2 Go.\n\nUn périphérique de stockage est nécessaire pour démarrer LiveG OS pour l'installation. Le périphérique de stockage doit avoir une taille de stockage minimale de 2 Go.\n\nLiveG OS ne prend actuellement en charge que les ordinateurs de bureau et portables exécutant une architecture de processeur x86-64 (AMD64) (la plupart des systèmes 64-bits le prendront en charge). Nous espérons étendre bientôt la prise en charge de l'architecture, ainsi que la prise en charge mobile.",
+                "zh_CN": "力格OS可以安装到最小磁盘存储尺寸为2.6 GB的设备上，并且最小RAM大小为2 GB。\n\n需要存储设备来启动力格OS进行安装。存储设备的最小存储尺寸必须为2 GB。\n\n力格OS目前仅支持运行x86-64（AMD64）CPU架构的台式机和笔记本电脑（大多数64位系统将支持这一点）。我们希望尽快扩展架构支持以及移动支持。"
+            },
+            "fallbackLocale": "en_GB",
+            "supportedLanguages": ["en_GB", "fr_FR"],
+            "githubRelease": "https://github.com/LiveGTech/OS/releases/v0.1.0",
+            "platforms": {
+                "x86_64": {
+                    "url": "http://localhost:8000/os/releases/1/x86_64.iso",
+                    "githubReleaseUrl": "https://github.com/LiveGTech/OS/releases/download/v0.1.0/system.iso",
+                    "description": {
+                        "en_GB": "This edition runs on most x86-64 computers with Intel or AMD CPU chipsets, as well as in virtual machines. Devices with Nvidia graphics cards are not yet supported.",
+                        "fr_FR": "Cette édition fonctionne sur la plupart des ordinateurs x86-64 équipés de chipsets CPU Intel ou AMD, ainsi que sur des machines virtuelles. Les appareils équipés de cartes graphiques Nvidia ne sont pas encore pris en charge.",
+                        "zh_CN": "此版本可在大多数配备Intel或AMD CPU芯片组的x86-64计算机以及虚拟机上运行。尚不支持配备Nvidia显卡的设备。"
+                    }
+                }
+            }
+        }
+    ],
+    "platforms": {
+        "x86_64": {
+            "name": {
+                "en_GB": "x86-64 (Intel, AMD) computers",
+                "fr_FR": "Ordinateurs x86-64 (Intel, AMD)"
+            },
+            "description": {
+                "en_GB": "This edition is designed to run on x86-64 computers with Intel or AMD CPU chipsets, as well as in virtual machines.",
+                "fr_FR": "Cette édition est conçue pour fonctionner sur des ordinateurs x86-64 avec des chipsets CPU Intel ou AMD, ainsi que sur des machines virtuelles.",
+                "zh_CN": "此版本设计用于在具有 Intel 或 AMD CPU 芯片组的 x86-64 计算机以及虚拟机中运行。"
+            },
+            "fallbackLocale": "en_GB"
+        }
+    }
+}
