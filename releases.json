@@ -30,7 +30,7 @@
             "githubRelease": "https://github.com/LiveGTech/OS/releases/v0.1.0",
             "platforms": {
                 "x86_64": {
-                    "url": "http://localhost:8000/os/releases/0/x86_64.iso",
+                    "url": "https://liveg.tech/os/releases/0/x86_64.iso",
                     "githubReleaseUrl": "https://github.com/LiveGTech/OS/releases/download/v0.1.0/system.iso",
                     "description": {
                         "en_GB": "This edition runs on most x86-64 computers with Intel or AMD CPU chipsets, as well as in virtual machines. Devices with Nvidia graphics cards are not yet supported.",
