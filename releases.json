@@ -39,18 +39,105 @@
                     }
                 }
             }
+        },
+        {
+            "version": "0.2.0",
+            "vernum": 1,
+            "circuit": "alpha",
+            "releasedAt": 1691771866062,
+            "description": {
+                "en_GB": "Try out our new operating system designed for modern computing. This latest Alpha release now supports a variety of devices, including the PinePhone and Raspberry Pi.",
+                "fr_FR": "Essayez notre nouveau système d'exploitation conçu pour l'informatique moderne. Cette dernière version Alpha prend désormais en charge une variété d'appareils, y compris le PinePhone et le Raspberry Pi.",
+                "zh_CN": "尝试一下我们专为现代计算设计的新操作系统。最新的Alpha版本现在支持多种设备，包括PinePhone和树莓派。"
+            },
+            "notes": {
+                "en_GB": "This release features several new features and additions to LiveG OS that bring the system closer to a fully-featured operating system. Users should be advised that LiveG OS is still in-development, and so some features may still be incomplete or missing.\n\nSome new features that have been added to LiveG OS include:\n\n* Support for the installation of progressive web apps (PWAs) to the app menu\n* More options in the app menu to quickly find the apps you need, including alphabetical sorting and a search bar\n* A new, tab-based interface for Sphere, making it possible to browse multiple pages on the web in just one window\n* A gesture-based means of navigation on mobile that lets you quickly view the apps you have open and easily switch between apps by swiping across the home button\n* An update system that lets you download and install the latest LiveG OS updates available for your device\n* New options in the Settings app to configure Wi-Fi networks, keyboard layouts, and interaction and privacy options\n* Options to configure interaction and privacy settings in LiveG OS Setup",
+                "fr_FR": "Cette version comporte plusieurs nouvelles fonctionnalités et ajouts à LiveG OS qui rapprochent le système d'un système d'exploitation complet. Les utilisateurs doivent être informés que LiveG OS est toujours en développement et que certaines fonctionnalités peuvent donc encore être incomplètes ou manquantes.\n\nCertaines nouvelles fonctionnalités qui ont été ajoutées à LiveG OS incluent :\n\n* Prise en charge de l'installation d'applications web progressives (PWA) dans le menu de l'application\n* Plus d'options dans le menu des applications pour trouver rapidement les applications dont vous avez besoin, y compris le tri alphabétique et une barre de recherche\n* Une nouvelle interface basée sur des onglets pour Sphere, permettant de parcourir plusieurs pages sur le Web dans une seule fenêtre\n* Un moyen de navigation basé sur les gestes sur mobile qui vous permet de visualiser rapidement les applications que vous avez ouvertes et de basculer facilement entre les applications en glissant sur le bouton d'accueil\n* Un système de mise à jour qui vous permet de télécharger et d'installer les dernières mises à jour LiveG OS disponibles pour votre appareil\n* Nouvelles options dans l'application Paramètres pour configurer les réseaux Wi-Fi, les dispositions du clavier et les options d'interaction et de confidentialité\n* Options pour configurer les paramètres d'interaction et de confidentialité dans LiveG OS Setup",
+                "zh_CN": "此版本为力格OS提供了多项新功能和新增功能，使系统更接近于功能齐全的操作系统。应告知用户，力格OS仍在开发中，因此某些功能可能仍不完整或缺失。\n\n力格OS中添加的一些新功能包括：\n\n* 支持将渐进式网络应用程序（PWA）安装到应用程序菜单\n* 应用程序菜单中有更多选项，可快速找到您需要的应用程序，包括字母排序和搜索栏\n* 领域的基于选项卡的新界面，可以在一个窗口中浏览网络上的多个页面\n* 移动设备上基于手势的导航方式，可让您快速查看已打开的应用程序，并通过滑动主页按钮轻松在应用程序之间切换\n* 更新系统，可让您下载并安装适用于您的设备的最新力格OS更新\n* 设置应用程序中的新选项可用于配置 Wi-Fi 网络、键盘布局以及交互和隐私选项\n* 在力格OS初始设置环境中配置交互和隐私设置的选项"
+            },
+            "systemRequirements": {
+                "en_GB": "LiveG OS can be installed to devices with a minimum disk storage size of 2.6 GB, and with a minimum RAM size of 2 GB.\n\nA storage device is required to boot LiveG OS for installation. The storage device must have a minimum storage size of 2 GB.",
+                "fr_FR": "LiveG OS peut être installé sur des appareils avec une taille de stockage de disque minimale de 2,6 Go et une taille de RAM minimale de 2 Go.\n\nUn périphérique de stockage est requis pour démarrer LiveG OS pour l'installation. Le périphérique de stockage doit avoir une taille de stockage minimale de 2 Go.",
+                "zh_CN": "力格OS可以安装到磁盘存储空间最小为2.6 GB、RAM大小最小为2 GB的设备上。\n\n需要存储设备来启动力格OS进行安装。存储设备的最小存储大小必须为2 GB。"
+            },
+            "fallbackLocale": "en_GB",
+            "supportedLanguages": ["en_GB", "fr_FR"],
+            "githubRelease": "https://github.com/LiveGTech/OS/releases/v0.2.0",
+            "platforms": {
+                "x86_64": {
+                    "url": "https://liveg.tech/os/releases/1/x86_64.iso",
+                    "githubReleaseUrl": "https://github.com/LiveGTech/OS/releases/download/v0.2.0/x86_64.iso"
+                },
+                "arm64": {
+                    "url": "https://liveg.tech/os/releases/1/arm64.iso",
+                    "githubReleaseUrl": "https://github.com/LiveGTech/OS/releases/download/v0.2.0/arm64.iso"
+                },
+                "rpi": {
+                    "url": "https://liveg.tech/os/releases/1/rpi.img.gz",
+                    "githubReleaseUrl": "https://github.com/LiveGTech/OS/releases/download/v0.2.0/rpi.img.gz"
+                },
+                "pinephone": {
+                    "url": "https://liveg.tech/os/releases/1/pinephone.img.gz",
+                    "githubReleaseUrl": "https://github.com/LiveGTech/OS/releases/download/v0.2.0/pinephone.img.gz",
+                    "description": {
+                        "en_GB": "This edition is designed to run on the PINE64 PinePhone. The PinePhone Pro is not currently supported.",
+                        "fr_FR": "Cette édition est conçue pour fonctionner sur le PinePhone PINE64. Le PinePhone Pro n'est actuellement pas pris en charge.",
+                        "zh_CN": "该版本设计为在PINE64 PinePhone上运行。目前不支持PinePhone Pro。"
+                    }
+                }
+            }
         }
     ],
     "platforms": {
         "x86_64": {
             "name": {
                 "en_GB": "x86-64 (Intel, AMD) computers",
-                "fr_FR": "Ordinateurs x86-64 (Intel, AMD)"
+                "fr_FR": "Ordinateurs x86-64 (Intel, AMD)",
+                "zh_CN": "x86-64（Intel、AMD）计算机"
             },
             "description": {
                 "en_GB": "This edition is designed to run on x86-64 computers with Intel or AMD CPU chipsets, as well as in virtual machines.",
                 "fr_FR": "Cette édition est conçue pour fonctionner sur des ordinateurs x86-64 avec des chipsets CPU Intel ou AMD, ainsi que sur des machines virtuelles.",
                 "zh_CN": "此版本设计用于在具有Intel或AMD CPU芯片组的x86-64计算机以及虚拟机中运行。"
+            },
+            "fallbackLocale": "en_GB"
+        },
+        "arm64": {
+            "name": {
+                "en_GB": "ARM64 computers",
+                "fr_FR": "Ordinateurs ARM64",
+                "zh_CN": "ARM64计算机"
+            },
+            "description": {
+                "en_GB": "This edition is designed to run on computers that support UEFI booting and have a 64-bit ARM CPU chipset, as well as in virtual machines.",
+                "fr_FR": "Cette édition est conçue pour fonctionner sur des ordinateurs prenant en charge le démarrage UEFI et dotés d'un chipset CPU ARM 64 bits, ainsi que sur des machines virtuelles.",
+                "zh_CN": "此版本设计为在支持UEFI启动并具有64位ARM CPU芯片组的计算机以及虚拟机中运行。"
+            },
+            "fallbackLocale": "en_GB"
+        },
+        "rpi": {
+            "name": {
+                "en_GB": "Raspberry Pi",
+                "fr_FR": "Raspberry Pi",
+                "zh_CN": "树莓派"
+            },
+            "description": {
+                "en_GB": "This edition is designed to run on the Raspberry Pi 4 and Raspberry Pi Compute Module 4. This edition also runs on the Raspberry Pi 3.",
+                "fr_FR": "Cette édition est conçue pour fonctionner sur le Raspberry Pi 4 et le Raspberry Pi Compute Module 4. Cette édition fonctionne également sur le Raspberry Pi 3.",
+                "zh_CN": "此版本设计用于树莓派4和树莓派计算模块4。此版本也适用于树莓派3。"
+            },
+            "fallbackLocale": "en_GB"
+        },
+        "pinephone": {
+            "name": {
+                "en_GB": "PinePhone",
+                "fr_FR": "PinePhone",
+                "zh_CN": "PinePhone"
+            },
+            "description": {
+                "en_GB": "This edition is designed to run on the PINE64 PinePhone. This edition is not designed to run on the PinePhone Pro.",
+                "fr_FR": "Cette édition est conçue pour fonctionner sur le PinePhone PINE64. Cette édition n'est pas conçue pour fonctionner sur le PinePhone Pro.",
+                "zh_CN": "该版本设计为在PINE64 PinePhone上运行。此版本不适用于PinePhone Pro上运行。"
             },
             "fallbackLocale": "en_GB"
         }
