@@ -45,6 +45,11 @@
             "vernum": 1,
             "circuit": "alpha",
             "releasedAt": 1691771866062,
+            "title": {
+                "en_GB": "LiveG OS Alpha",
+                "fr_FR": "LiveG OS Alpha",
+                "zh_CN": "力格OS Alpha"
+            },
             "description": {
                 "en_GB": "Try out our new operating system designed for modern computing. This latest Alpha release now supports a variety of devices, including the PinePhone and Raspberry Pi.",
                 "fr_FR": "Essayez notre nouveau système d'exploitation conçu pour l'informatique moderne. Cette dernière version Alpha prend désormais en charge une variété d'appareils, y compris le PinePhone et le Raspberry Pi.",
