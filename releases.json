@@ -45,7 +45,8 @@
         "x86_64": {
             "name": {
                 "en_GB": "x86-64 (Intel, AMD) computers",
-                "fr_FR": "Ordinateurs x86-64 (Intel, AMD)"
+                "fr_FR": "Ordinateurs x86-64 (Intel, AMD)",
+                "zh_CN": "x86-64（Intel、AMD）计算机"
             },
             "description": {
                 "en_GB": "This edition is designed to run on x86-64 computers with Intel or AMD CPU chipsets, as well as in virtual machines.",
