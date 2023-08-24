@@ -61,9 +61,9 @@
                 "zh_CN": "此版本为力格OS提供了多项新功能和新增功能，使系统更接近于功能齐全的操作系统。应告知用户，力格OS仍在开发中，因此某些功能可能仍不完整或缺失。\n\n力格OS中添加的一些新功能包括：\n\n* 支持将渐进式网络应用程序（PWA）安装到应用程序菜单\n* 应用程序菜单中有更多选项，可快速找到您需要的应用程序，包括字母排序和搜索栏\n* 领域的基于选项卡的新界面，可以在一个窗口中浏览网络上的多个页面\n* 移动设备上基于手势的导航方式，可让您快速查看已打开的应用程序，并通过滑动主页按钮轻松在应用程序之间切换\n* 更新系统，可让您下载并安装适用于您的设备的最新力格OS更新\n* 设置应用程序中的新选项可用于配置 Wi-Fi 网络、键盘布局以及交互和隐私选项\n* 在力格OS初始设置环境中配置交互和隐私设置的选项"
             },
             "systemRequirements": {
-                "en_GB": "LiveG OS can be installed to devices with a minimum disk storage size of 2.6 GB, and with a minimum RAM size of 2 GB.\n\nA storage device is required to boot LiveG OS for installation. The storage device must have a minimum storage size of 2 GB.",
-                "fr_FR": "LiveG OS peut être installé sur des appareils avec une taille de stockage de disque minimale de 2,6 Go et une taille de RAM minimale de 2 Go.\n\nUn périphérique de stockage est requis pour démarrer LiveG OS pour l'installation. Le périphérique de stockage doit avoir une taille de stockage minimale de 2 Go.",
-                "zh_CN": "力格OS可以安装到磁盘存储空间最小为2.6 GB、RAM大小最小为2 GB的设备上。\n\n需要存储设备来启动力格OS进行安装。存储设备的最小存储大小必须为2 GB。"
+                "en_GB": "LiveG OS can be installed to devices with a minimum disk storage size of 4.3 GB, and with a minimum RAM size of 2 GB.\n\nA storage device is required to boot LiveG OS for installation. The storage device must have a minimum storage size of 6 GB.",
+                "fr_FR": "LiveG OS peut être installé sur des appareils avec une taille de stockage de disque minimale de 4,3 Go et une taille de RAM minimale de 2 Go.\n\nUn périphérique de stockage est requis pour démarrer LiveG OS pour l'installation. Le périphérique de stockage doit avoir une taille de stockage minimale de 6 Go.",
+                "zh_CN": "力格OS可以安装到磁盘存储空间最小为4.3 GB、RAM大小最小为2 GB的设备上。\n\n需要存储设备来启动力格OS进行安装。存储设备的最小存储大小必须为6 GB。"
             },
             "fallbackLocale": "en_GB",
             "supportedLanguages": ["en_GB", "fr_FR"],
