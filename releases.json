@@ -91,6 +91,54 @@
                     }
                 }
             }
+        },
+        {
+            "version": "0.3.0",
+            "vernum": 6,
+            "circuit": "alpha",
+            "releasedAt": 1732832121578,
+            "title": {
+                "en_GB": "LiveG OS Alpha",
+                "fr_FR": "LiveG OS Alpha",
+                "zh_CN": "力格OS Alpha"
+            },
+            "description": {
+                "en_GB": "Try out the latest release of our operating system designed for modern computing, packed with a variety of new features and improvements. This release is our 10th Anniversary Edition, marking a decade of technological innovation at LiveG.",
+                "fr_FR": "Essayez la dernière version de notre système d'exploitation conçu pour l'informatique moderne, doté de nombreuses nouvelles fonctionnalités et améliorations. Cette version est notre « Édition 10e anniversaire », marquant une décennie d'innovation technologique chez LiveG.",
+                "zh_CN": "试用我们为现代计算设计的最新版本操作系统，它包含各种新功能和改进。此版本是我们的《十周年纪念版》，标志着力格十年的技术创新。"
+            },
+            "notes": {
+                "en_GB": "This new release introduces a variety of new features and user experience improvements. Highlights include:\n\n* New Files and Calculator apps to enhance productivity\n* Support for running Linux apps and commands in the new Terminal app\n* Improvements to localisation support, including added support for Catalan\n* Accessibility improvements, including the new Readout Navigation screen reader\n* Web Investigator, a new developer tool for inspecting web apps and web pages in Sphere",
+                "fr_FR": "Cette nouvelle version introduit une variété de nouvelles fonctionnalités et d'améliorations de l'expérience utilisateur. Les points forts incluent :\n\n* Nouvelles applications Fichiers et Calculatrice pour améliorer la productivité\n* Prise en charge de l'exécution d'applications et de commandes Linux dans la nouvelle application Terminal\n* Améliorations de la prise en charge de la localisation, y compris la prise en charge supplémentaire du catalan\n* Améliorations de l'accessibilité, notamment le nouveau lecteur d'écran « navigation par narration »\n* Enquêteur Web, un nouvel outil de développement pour inspecter les applications web et les pages web dans Sphère",
+                "zh_CN": "此新版本引入了各种新功能和用户体验改进。亮点包括：\n* 新的文件和计算器应用可提高工作效\n* 支持在新的终端应用中运行Linux应用和命令\n* 改进本地化支持，包括增加对加泰罗尼亚语的支持\n* 可访问性改进，包括新的《通过旁白导航》屏幕阅读器\n* 网页调查员，一种用于检查球面中的网页应用和网页的新开发人员工具"
+            },
+            "systemRequirements": {
+                "en_GB": "LiveG OS can be installed to devices with a minimum disk storage size of 4.3 GB, and with a minimum RAM size of 2 GB.\n\nA storage device is required to boot LiveG OS for installation. The storage device must have a minimum storage size of 6 GB.",
+                "fr_FR": "LiveG OS peut être installé sur des appareils avec une taille de stockage de disque minimale de 4,3 Go et une taille de RAM minimale de 2 Go.\n\nUn périphérique de stockage est requis pour démarrer LiveG OS pour l'installation. Le périphérique de stockage doit avoir une taille de stockage minimale de 6 Go.",
+                "zh_CN": "力格OS可以安装到磁盘存储空间最小为4.3 GB、RAM大小最小为2 GB的设备上。\n\n需要存储设备来启动力格OS进行安装。存储设备的最小存储大小必须为6 GB。"
+            },
+            "fallbackLocale": "en_GB",
+            "supportedLanguages": ["en_GB", "fr_FR"],
+            "githubRelease": "https://github.com/LiveGTech/OS/releases/v0.3.0",
+            "platforms": {
+                "x86_64": {
+                    "url": "https://liveg.tech/os/releases/6/x86_64.iso"
+                },
+                "arm64": {
+                    "url": "https://liveg.tech/os/releases/6/arm64.iso"
+                },
+                "rpi": {
+                    "url": "https://liveg.tech/os/releases/6/rpi.img.gz"
+                },
+                "pinephone": {
+                    "url": "https://liveg.tech/os/releases/6/pinephone.img.gz",
+                    "description": {
+                        "en_GB": "This edition is designed to run on the PINE64 PinePhone. The PinePhone Pro is not currently supported.",
+                        "fr_FR": "Cette édition est conçue pour fonctionner sur le PinePhone PINE64. Le PinePhone Pro n'est actuellement pas pris en charge.",
+                        "zh_CN": "该版本设计为在PINE64 PinePhone上运行。目前不支持PinePhone Pro。"
+                    }
+                }
+            }
         }
     ],
     "platforms": {
@@ -127,9 +175,9 @@
                 "zh_CN": "树莓派"
             },
             "description": {
-                "en_GB": "This edition is designed to run on the Raspberry Pi 4 and Raspberry Pi Compute Module 4. This edition also runs on the Raspberry Pi 3.",
-                "fr_FR": "Cette édition est conçue pour fonctionner sur le Raspberry Pi 4 et le Raspberry Pi Compute Module 4. Cette édition fonctionne également sur le Raspberry Pi 3.",
-                "zh_CN": "此版本设计用于树莓派4和树莓派计算模块4。此版本也适用于树莓派3。"
+                "en_GB": "This edition is designed to run on the Raspberry Pi 5, Raspberry Pi 4 and Raspberry Pi Compute Module 4.",
+                "fr_FR": "Cette édition est conçue pour fonctionner sur le Raspberry Pi 5, le Raspberry Pi 4 et le Raspberry Pi Compute Module 4.",
+                "zh_CN": "此版本设计用于树莓派5、树莓派4和树莓派计算模块4。"
             },
             "fallbackLocale": "en_GB"
         },
